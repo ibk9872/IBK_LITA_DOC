@@ -15,3 +15,21 @@ The primary source of data is sql saved on excel
  3. Visualization
 - Structured query language for data querying
 - Github for portfolio
+
+### Data cleaning and preparations
+The following action was performed at the initial phase for data cleaning and preparations;
+1. Sata loading and inspection
+2. Handlimg missing variables
+3. Data cleaning and formatting
+
+### Exploratory  Data Analysis
+- What us the overall sales trend
+- Which products are top sellers
+- What are the products on peak sales
+
+### Data Analysis
+This is where we include some basic lines of code or queries and expressions used during data analysis
+
+```SQL
+Select * from labourer
+where condition = true
