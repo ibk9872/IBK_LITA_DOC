@@ -9,7 +9,7 @@ This project is designed to document my progress in the ladies in tech boot camp
 The primary source of data is sql saved on excel
 
 ### Tools used
-- Microsoft excel [Download here](https://www.mocrosoft.com)
+- Microsoft excel [Download here](https://www.microsoft.com)
  1. data cleaning
  2. Analysis
  3. Visualization
